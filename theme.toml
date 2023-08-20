@@ -1,0 +1,13 @@
+name = "huly"
+license = "Apache 2.0"
+licenselink = "https://github.com/dailyhots/huly/blob/main/LICENSE"
+description = "Daily Hots Theme"
+homepage = "https://github.com/dailyhots/huly"
+demosite = "N/A"
+tags = ["simple", "minimal", "clean", "fast", "blog", "responsive", "dark mode", "privacy"]
+features = ["fast", "blog", "syntax highlighting", "dark mode"]
+min_version = "0.0.1"
+
+[author]
+  name = "Daily Hots Team"
+  homepage = "https://github.com/dailyhots"
